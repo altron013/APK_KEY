@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name"> Новости</string>
+    <string-array name="news">
+        <item>ШымкентОглавном</item>
+        <item>ozgesgesin</item>
+        <item>Агай</item>
+        <item>Карл Нурдаулет</item>
+        <item>Ильяс</item>
+        <item>Атабай</item>
+        <item>Майтабар</item>
+        <item>лучший!</item>
+        <item>Миг</item>
+        <item>ВингардиюмЛивиюсса</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>сегодня в 00:11</item>
+        <item>23 марта в 23:11</item>
+        <item>1 января в 05:56</item>
+        <item>вчера в 07:55</item>
+        <item>1 января в 05:56</item>
+        <item>сегодня в 00:11</item>
+        <item>23 марта в 23:11</item>
+        <item>вчера в 07:55</item>
+        <item>Реклама</item>
+        <item>сегодня в 00:11</item>
+    </string-array>
+    <string-array name="text">
+        <item>сегодня в 00:11</item>
+        <item>23 марта в 23:11</item>
+        <item>1 января в 05:56</item>
+        <item>вчера в 07:55</item>
+        <item>1 января в 05:56</item>
+        <item>сегодня в 00:11</item>
+        <item>23 марта в 23:11</item>
+        <item>вчера в 07:55</item>
+        <item>Реклама</item>
+        <item>сегодня в 00:11</item>
+    </string-array>
+
+    <string-array name="like_state">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </string-array>
+</resources>
